@@ -12,4 +12,9 @@ We're making a [Princeton](https://wordnet.princeton.edu/)-like lexicon of Russi
 * ipython/jupyter notebook
 
 ## Howto
-Look into bparser-interface.ipynb
+Clone or download and unzip this repository and start `bparser-interface.ipynb'
+
+## Related repos
+You can also:
+* [Explore a proto semantic graph of verbs made from word2vec model](https://github.com/tiefling-cat/verb2graph)
+* [Get yourself a tool to predict aspect of Russian verbs](https://github.com/tiefling-cat/guessing-aspect)
